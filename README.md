@@ -1,4 +1,4 @@
-# Instamart Next Product Prediction
+# Instacart Next Product Prediction
 
 This repository contains an end-to-end notebook workflow for analyzing Instacart order history data and building models to predict a user's next purchased products.
 
@@ -26,7 +26,7 @@ These notebooks expect Instacart CSV files such as:
 - `order_products__train.csv`
 - `sample_submission.csv`
 
-Some notebooks reference a local folder like `instacart-market_basket_analysis/`. Update paths to match your local dataset location before execution.
+Some notebooks reference a local folder like `instacart_market_basket_analysis/`. Update paths to match your local dataset location before execution.
 
 ## Environment setup
 
