@@ -6,13 +6,13 @@ This repository contains an end-to-end notebook workflow for analyzing Instacart
 
 The project is organized as sequential Jupyter notebooks:
 
-1. **`1. Data_Analysis.ipynb`** - Dataset overview and initial data understanding.
-2. **`2. Exploratory_Data_Analysis.ipynb`** - Visual EDA and behavioral insights.
-3. **`3. Customer_Segementation.ipynb`** - Customer segmentation using PCA and K-Means.
-4. **`4. Market_Basket_Analysis.ipynb`** - Association-rule mining and basket analysis.
-5. **`5. Feature Extraction.ipynb`** - Product, aisle, department, and user-level feature engineering.
-6. **`6. ANN Model.ipynb`** - Neural-network based prediction model.
-7. **`7. XGBoost Model.ipynb`** - Gradient-boosted tree model for final prediction.
+1. **Notebook 1 - Data Analysis**: Dataset overview and initial data understanding.
+2. **Notebook 2 - Exploratory Data Analysis**: Visual EDA and behavioral insights.
+3. **Notebook 3 - Customer Segmentation**: PCA and K-Means based user grouping.
+4. **Notebook 4 - Market Basket Analysis**: Association-rule mining and basket analysis.
+5. **Notebook 5 - Feature Extraction**: Product, aisle, department, and user-level feature engineering.
+6. **Notebook 6 - ANN Model**: Neural-network based prediction model.
+7. **Notebook 7 - XGBoost Model**: Gradient-boosted tree model for final prediction.
 
 ## Dataset
 
